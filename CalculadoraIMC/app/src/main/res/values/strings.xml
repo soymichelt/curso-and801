@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="escriba_su_peso">Weight (Kg)</string>
+    <string name="escriba_su_altura">Height (meter)</string>
+    <string name="calcular_imc">CALCULATE IMC</string>
+    <string name="cerrar_app">EXIT</string>
+    <string name="bajo_peso">Underweight</string>
+    <string name="normal_peso">Normal weight</string>
+    <string name="obesidad_clase_I">Obesity class I</string>
+    <string name="obesidad_clase_II">Obesity class II</string>
+    <string name="obesidad_clase_III">Obesity class III</string>
+</resources>
